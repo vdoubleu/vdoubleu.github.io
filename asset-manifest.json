@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21f5180f.chunk.css",
+    "main.js": "/static/js/main.309e4412.chunk.js",
+    "main.js.map": "/static/js/main.309e4412.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.99e80802.js",
+    "runtime-main.js.map": "/static/js/runtime-main.99e80802.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.03d11bae.chunk.js": "/static/js/2.03d11bae.chunk.js",
+    "static/js/2.03d11bae.chunk.js.map": "/static/js/2.03d11bae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3901c66f7ce030d185238b71532ea582.js": "/precache-manifest.3901c66f7ce030d185238b71532ea582.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.21f5180f.chunk.css.map": "/static/css/main.21f5180f.chunk.css.map",
+    "static/js/2.03d11bae.chunk.js.LICENSE.txt": "/static/js/2.03d11bae.chunk.js.LICENSE.txt",
+    "static/media/code.png": "/static/media/code.ba5dd1b0.png",
+    "static/media/cosmo.png": "/static/media/cosmo.d58758c8.png",
+    "static/media/cubetimer.png": "/static/media/cubetimer.a47b97fa.png",
+    "static/media/inform.png": "/static/media/inform.94ce9bb2.png",
+    "static/media/math_equation_solver.png": "/static/media/math_equation_solver.f2a45a73.png",
+    "static/media/me.JPG": "/static/media/me.97f90aa3.JPG",
+    "static/media/neuralnet.png": "/static/media/neuralnet.a51d52f4.png",
+    "static/media/ngram.png": "/static/media/ngram.8ea902a7.png",
+    "static/media/rob1.jpg": "/static/media/rob1.394d9e35.jpg",
+    "static/media/robotPrediction.png": "/static/media/robotPrediction.41ca40f4.png",
+    "static/media/robotics.jpg": "/static/media/robotics.7f37a5ae.jpg",
+    "static/media/set.jpg": "/static/media/set.7ff76440.jpg",
+    "static/media/set2.jpg": "/static/media/set2.8fc59e82.jpg",
+    "static/media/sethacks-site.png": "/static/media/sethacks-site.1cc14ec3.png",
+    "static/media/turr.jpg": "/static/media/turr.1d2e4ca6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99e80802.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.03d11bae.chunk.js",
+    "static/css/main.21f5180f.chunk.css",
+    "static/js/main.309e4412.chunk.js"
+  ]
+}
